@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hriscumatei
-- 👀 I’m interested in NFT & crypto space
-- 💞️ I’m looking to collaborate on NFT projects
+- 👀 I’m interested in learning programming 
+- 💞️ I want to become a full stack developer
 - 📫 Twitter: @MateiHriscu
 
 <!---
